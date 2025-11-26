@@ -1,68 +1,80 @@
-import { Tabs, useRouter } from "expo-router";
+import { Tabs } from "expo-router";
 import { Ionicons } from "@expo/vector-icons";
-import { BottomTabBar } from "@react-navigation/bottom-tabs";
-import { StyleSheet, TouchableOpacity } from "react-native";
+import { useFonts } from "expo-font";
+//import { SplashScreen } from "expo-splash-screen";
 
-function FloatingTabBar(props: any) {
-  const router = useRouter();
-
-  return (
-    <>
-      <BottomTabBar {...props} />
-      <TouchableOpacity
-        style={styles.floatingButton}
-        onPress={() => router.push("/current-tour")}
-      >
-        <Ionicons name="add" size={28} color="#fff" />
-      </TouchableOpacity>
-    </>
-  );
-}
+// SplashScreen.preventAutoHideAsync();
 
 export default function TabLayout() {
+  const [fontsLoaded] = useFonts({
+    'BethEllen-Regular': require('../../assets/fonts/bethellen-regular.ttf'),
+    'BobbyJones': require('../../assets/fonts/bobby-jones.otf'),
+    'CopperPlate': require('../../assets/fonts/copperplate-gothic-std-29-bc.ttf'),
+    'SpriteGraffiti': require('../../assets/fonts/sprite-graffiti.otf')
+  });
+
+  // useEffect(() => {
+  //   if (fontsLoaded) {
+  //     SplashScreen.hideAsync();
+  //   }
+  // }, [fontsLoaded]);
+
   return (
     <Tabs 
-        tabBar={(props) => <FloatingTabBar {...props} />}
         screenOptions={{
             tabBarActiveTintColor: '#d44a4a',
-            tabBarInactiveTintColor: '#334360',
+            tabBarInactiveTintColor: '#fff6eb',
             tabBarStyle: {
-                backgroundColor: '#fff6eb',
+                backgroundColor: '#334360',
                 borderTopColor: '#334360',
-                borderTopWidth: 1,
+                borderBottomColor: '#334360',
+                borderLeftColor: '#334360',
+                borderRightColor: '#334360',
+                borderWidth: 1,
+                borderRadius: 20,
+                position: 'absolute',
+                overflow: 'hidden',
+                margin: 15,
+                height: 60,
+                display: 'flex',
+                flexDirection: 'row'
             },
-            headerStyle: {
-                backgroundColor: '#fff6eb',
+            tabBarItemStyle: {
+              height: '100%',
+              padding: 0,
+              margin: 10,
+              justifyContent: 'center',
+              display: 'flex',
+              flexDirection: 'column' // isnt really working, when i expand window it makes label and logo in one line
             },
+            tabBarIconStyle: {
+              flex: 1,
+              alignItems: 'center',
+              justifyContent: 'center',
+              marginBottom: 0, // Remove any default bottom margin
+              padding: 0
+            },
+            tabBarLabelStyle: {
+              flex: 2,
+              fontSize: 12,
+              marginTop: 8,
+              paddingBottom: 0,
+              fontFamily: 'BobbyJones'
+            },
+            headerStyle: 'none',
             headerShadowVisible: false,
             headerTitleAlign: 'center',
         }}
     >
-      <Tabs.Screen name="index" options={{ title: 'Plan!',
+      <Tabs.Screen name="index" options={{ title: 'Plan!', headerShown: false,
         tabBarIcon: ({ color }) => <Ionicons name="map" size={24} color={color} />
       }} />
-      <Tabs.Screen name="saved_tours" options={{ title: 'Saved Tours',
+      <Tabs.Screen name="current-tour" options={{ title: 'Current Tour', headerShown: false,
+        tabBarIcon: ({ color }) => <Ionicons name="play" size={24} color={color} />
+      }} />
+      <Tabs.Screen name="saved_tours" options={{ title: 'Saved Tours', headerShown: false,
         tabBarIcon: ({ color }) => <Ionicons name="heart" size={24} color={color} />,
       }} />
     </Tabs>
   );
 }
-
-const styles = StyleSheet.create({
-  floatingButton: {
-    position: "absolute",
-    bottom: 40,
-    alignSelf: "center",
-    width: 64,
-    height: 64,
-    borderRadius: 32,
-    backgroundColor: "#d44a4a",
-    justifyContent: "center",
-    alignItems: "center",
-    shadowColor: "#000",
-    shadowOpacity: 0.25,
-    shadowRadius: 6,
-    shadowOffset: { width: 0, height: 4 },
-    elevation: 6,
-  },
-});

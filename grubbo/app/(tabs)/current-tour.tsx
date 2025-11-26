@@ -1,10 +1,10 @@
 import { View, Text, StyleSheet } from "react-native";
+import React from 'react';
 
 export default function CreateTourScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Create a new tour</Text>
-      <Text style={styles.subtitle}>Build your custom experience here.</Text>
+      <Text style={styles.subtitle}>Map here, display "you're not in a tour right now!" if no tour</Text>
     </View>
   );
 }
@@ -28,5 +28,9 @@ const styles = StyleSheet.create({
     color: "#334360",
     textAlign: "center",
   },
+  map: {
+    width: '100%',
+    height: '100%'
+  }
 });
 
