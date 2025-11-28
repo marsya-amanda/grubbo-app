@@ -6,18 +6,6 @@ import { useFonts } from "expo-font";
 // SplashScreen.preventAutoHideAsync();
 
 export default function TabLayout() {
-  const [fontsLoaded] = useFonts({
-    'BethEllen-Regular': require('../../assets/fonts/bethellen-regular.ttf'),
-    'BobbyJones': require('../../assets/fonts/bobby-jones.otf'),
-    'CopperPlate': require('../../assets/fonts/copperplate-gothic-std-29-bc.ttf'),
-    'SpriteGraffiti': require('../../assets/fonts/sprite-graffiti.otf')
-  });
-
-  // useEffect(() => {
-  //   if (fontsLoaded) {
-  //     SplashScreen.hideAsync();
-  //   }
-  // }, [fontsLoaded]);
 
   return (
     <Tabs 
@@ -25,19 +13,13 @@ export default function TabLayout() {
             tabBarActiveTintColor: '#d44a4a',
             tabBarInactiveTintColor: '#fff6eb',
             tabBarStyle: {
-                backgroundColor: '#334360',
-                borderTopColor: '#334360',
-                borderBottomColor: '#334360',
-                borderLeftColor: '#334360',
-                borderRightColor: '#334360',
-                borderWidth: 1,
-                borderRadius: 20,
+                backgroundColor: '#d44a4a',
+                borderRadius: 80,
                 position: 'absolute',
                 overflow: 'hidden',
                 margin: 15,
-                height: 60,
-                display: 'flex',
-                flexDirection: 'row'
+                height: 70,
+                width: 303,
             },
             tabBarItemStyle: {
               height: '100%',
@@ -61,7 +43,6 @@ export default function TabLayout() {
               paddingBottom: 0,
               fontFamily: 'BobbyJones'
             },
-            headerStyle: 'none',
             headerShadowVisible: false,
             headerTitleAlign: 'center',
         }}

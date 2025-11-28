@@ -1,17 +1,11 @@
 import { Text, View, StyleSheet } from "react-native";
 import TopReceipt from "../components/topReceipt.jsx";
 import BottomReceipt from "../components/bottomReceipt.jsx";
+import SearchField from "../components/SearchField.js";
 import { useFonts } from "expo-font";
 
 
 export default function Index() {
-  const [fontsLoaded] = useFonts({
-    'BethEllen-Regular': require('../../assets/fonts/bethellen-regular.ttf'),
-    'BobbyJones': require('../../assets/fonts/bobby-jones.otf'),
-    'CopperPlate': require('../../assets/fonts/copperplate-gothic-std-29-bc.ttf'),
-    'SpriteGraffiti': require('../../assets/fonts/sprite-graffiti.otf')
-  });
-
   return (
     <View
       style={styles.container}
@@ -25,6 +19,7 @@ export default function Index() {
         </View>
         <View style={styles.fieldContainer}>
           <Text style={styles.fieldTitle}>Start</Text>
+          
         </View>
 
         <View style={styles.fieldContainer}>
@@ -53,9 +48,10 @@ export default function Index() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: "center",
+    justifyContent: "flex-start",
     alignItems: "center",
     backgroundColor: '#B5C7E7',
+    padding: '15%'
   },
   main: {
     backgroundColor: "#fff3eb",
@@ -65,6 +61,7 @@ const styles = StyleSheet.create({
     flexDirection: 'column',
     alignItems: 'center',
     justifyContent: 'flex-start',
+    overflow: 'scroll'
   },
   titleContainer: {
     width: '92%',
@@ -73,18 +70,16 @@ const styles = StyleSheet.create({
     flexDirection: 'column',
     padding: 0,
     margin: 0,
-    marginBottom: 10,
     borderBottomColor: '#334360',
     borderBottomWidth: 3,
-    alignContent: 'center',
-    alignItems: 'center'
+    justifyContent: 'flex-start',
+    alignItems: 'center',
   },
   grubboText: {
     fontFamily: 'SpriteGraffiti',
     fontSize: 42,
     color: '#334360',
-    padding: 0,
-    margin: 0
+    textAlign: 'center'
   },
   secondaryText: {
     fontFamily: 'BobbyJones',
@@ -92,7 +87,7 @@ const styles = StyleSheet.create({
     color: '#334360',
     padding: 0,
     margin: 0,
-    lineHeight: 15
+    lineHeight: 25
   },
   fieldContainer: {
     display: 'flex',
@@ -104,18 +99,17 @@ const styles = StyleSheet.create({
     width: '92%',
     height: '10%',
     margin: 0,
-    padding: 0
+    marginTop: 5
   },
   fieldTitle: {
     fontFamily: 'BethEllen-Regular',
     fontSize: 14,
     color: '#d44a4a',
     padding: 0,
-    margin: 0,
+    marginTop: 8,
     transform: [{rotate: '351.5deg'}],
     textAlign: 'center',
-    lineHeight: 20,
-    marginTop: 5
+    lineHeight: 23
   },
   keywordTitle: {
     fontFamily: 'BethEllen-Regular',
