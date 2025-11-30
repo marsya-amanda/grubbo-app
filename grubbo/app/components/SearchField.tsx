@@ -1,5 +1,5 @@
 import { View, Text, TextInput, Pressable, StyleSheet } from "react-native";
-import DateTimePicker from 'DateTimePicker.tsx';
+import DateTimeButton from './DateTimeButton';
 import { Ionicons } from "@expo/vector-icons";
 
 type Props = {
@@ -26,7 +26,7 @@ export default function SearchField({
             />
         </View>
         
-        <DateTimePicker />
+        <DateTimeButton />
     </View>
   );
 }
