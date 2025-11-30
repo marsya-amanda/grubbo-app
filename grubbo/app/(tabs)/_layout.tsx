@@ -1,9 +1,5 @@
 import { Tabs } from "expo-router";
 import { Ionicons } from "@expo/vector-icons";
-import { useFonts } from "expo-font";
-//import { SplashScreen } from "expo-splash-screen";
-
-// SplashScreen.preventAutoHideAsync();
 
 export default function TabLayout() {
 
@@ -17,9 +13,9 @@ export default function TabLayout() {
                 borderRadius: 80,
                 position: 'absolute',
                 overflow: 'hidden',
-                margin: 15,
+                marginLeft: 15,
+                marginRight: 15,
                 height: 70,
-                width: 303,
             },
             tabBarItemStyle: {
               height: '100%',

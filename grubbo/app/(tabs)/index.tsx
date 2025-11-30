@@ -1,11 +1,14 @@
 import { Text, View, StyleSheet } from "react-native";
 import TopReceipt from "../components/topReceipt.jsx";
 import BottomReceipt from "../components/bottomReceipt.jsx";
-import SearchField from "../components/SearchField.js";
+import SearchField from "../components/SearchField";
 import { useFonts } from "expo-font";
-
+import React, { useState } from 'react';
 
 export default function Index() {
+  const [startLocation, setStartLocation] = useState("");
+  const [endLocation, setEndLocation] = useState("");
+
   return (
     <View
       style={styles.container}
@@ -19,11 +22,18 @@ export default function Index() {
         </View>
         <View style={styles.fieldContainer}>
           <Text style={styles.fieldTitle}>Start</Text>
-          
+          <SearchField 
+          placeholder="starting at..." 
+          value={startLocation}
+          onChangeText={setStartLocation}/>
         </View>
 
         <View style={styles.fieldContainer}>
           <Text style={styles.fieldTitle}>End</Text>
+          <SearchField 
+          placeholder="ending at..." 
+          value={endLocation}
+          onChangeText={setEndLocation}/>
         </View>
 
         <View style={styles.fieldContainer}>
