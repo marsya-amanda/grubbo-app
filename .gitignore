@@ -48,5 +48,9 @@ frontend.zip
 backend_extracted
 frontend_extracted
 MIGRATION_ANALYSIS.md
+BACKEND_SETUP.md
 
 *.vscode
+
+grubbo/app/services
+grubbo/app/types
