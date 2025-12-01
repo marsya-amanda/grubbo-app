@@ -2,6 +2,8 @@
 
 > A production-style mobile application for generating optimized food tours using real-time geolocation, map routing, and backend service orchestration.
 
+![Screenshots of Grubbo's WIP](images/current-prototype.png)
+
 **GRUBBO** is a React Native app that allows users to discover and navigate curated food routes in real time. It takes user preferences, finds nearby venues, computes efficient routes, and delivers live navigation with mobile-first UX and push notifications.
 
 This project is an evolution of the original GRUBBO web platform into a **fully mobile, production-oriented system**.
@@ -11,7 +13,7 @@ This project is an evolution of the original GRUBBO web platform into a **fully 
 ## 🔗 Recorded Demos
 
 - 🌐 **Web Version (original):**  
-  > [Link](https://drive.google.com/file/d/1wIERZsRaF30xJqzD6aerQHILIOAD9WIy/view?usp=sharing_)
+  > [Drive Link](https://drive.google.com/file/d/1wIERZsRaF30xJqzD6aerQHILIOAD9WIy/view?usp=sharing_)
 
 - 📱 **Mobile Demo:**  
   > Coming soon! Just finalising the UI !
