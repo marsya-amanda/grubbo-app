@@ -1,0 +1,636 @@
+{
+  "matcha": [
+    {
+      "title": "Matcha-Ya",
+      "place_id": "ChIJzTgrQgWvEmsR4ijm1nI6e3Q",
+      "data_id": "0x6b12af05422b38cd:0x747b3a72d6e628e2",
+      "data_cid": "8393366595441141986",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af05422b38cd:0x747b3a72d6e628e2",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af05422b38cd:0x747b3a72d6e628e2",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af05422b38cd:0x747b3a72d6e628e2",
+      "gps_coordinates": {
+        "latitude": -33.8782279,
+        "longitude": 151.2011763
+      },
+      "provider_id": "/g/11g045xzkw",
+      "rating": 4.3,
+      "reviews": 925,
+      "price": "A$1\u201320",
+      "type": "Cafe",
+      "types": [
+        "Cafe",
+        "Tea house"
+      ],
+      "address": "NW.05/10 Steam Mill La,Haymarket NSW 2000,Australia",
+      "open_state": "Closed \u22c5 Opens 12\u202fPM Tue",
+      "hours": "Closed \u22c5 Opens 12\u202fPM Tue",
+      "operating_hours": {
+        "monday": "Closed",
+        "tuesday": "12\u20139\u202fPM",
+        "wednesday": "12\u20139\u202fPM",
+        "thursday": "12\u20139\u202fPM",
+        "friday": "12\u201310\u202fPM",
+        "saturday": "12\u201310\u202fPM",
+        "sunday": "12\u20139\u202fPM"
+      },
+      "phone": "+61473437631",
+      "website": "https://matchaya.com.au/?utm_source=google&utm_medium=organic&utm_campaign=Google%20My%20Business%20Page",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npy6ssO4fmzk34EU8Ly3alsBCYmv4EYpmEmRJnt031-a0AtTHgtWUVYSd8ZugXuXzVCrTcVMDhKJb2bSRHpvpR6Sr5paAIqGAhRZUYRzEF1KVZ3JMqoQPhWehbh66jtFdEeoEiUdI3sKXXK=w114-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npy6ssO4fmzk34EU8Ly3alsBCYmv4EYpmEmRJnt031-a0AtTHgtWUVYSd8ZugXuXzVCrTcVMDhKJb2bSRHpvpR6Sr5paAIqGAhRZUYRzEF1KVZ3JMqoQPhWehbh66jtFdEeoEiUdI3sKXXK=w4624-h3468-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Matcha-Ya/@-33.8782279,151.2011763,19.072482753801523/data=!3m1!1e3!4m6!3m5!1s0x6b12af05422b38cd:0x747b3a72d6e628e2!8m2!3d-33.8782279!4d151.2011763!16s"
+    },
+    {
+      "title": "Cafe Cre Asion",
+      "place_id": "ChIJF_MU3heuEmsRlJT3c_gPvRI",
+      "data_id": "0x6b12ae17de14f317:0x12bd0ff873f79494",
+      "data_cid": "1350253023052928148",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae17de14f317:0x12bd0ff873f79494",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae17de14f317:0x12bd0ff873f79494",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae17de14f317:0x12bd0ff873f79494",
+      "gps_coordinates": {
+        "latitude": -33.873194,
+        "longitude": 151.196206
+      },
+      "provider_id": "/g/1vb9d6d1",
+      "rating": 4.5,
+      "reviews": 587,
+      "price": "A$1\u201320",
+      "type": "Cafe",
+      "types": [
+        "Cafe",
+        "Coffee shop"
+      ],
+      "address": "3/310 Harris St,Pyrmont NSW 2009,Australia",
+      "open_state": "Closed \u22c5 Opens 8\u202fAM Tue",
+      "hours": "Closed \u22c5 Opens 8\u202fAM Tue",
+      "operating_hours": {
+        "monday": "8\u202fAM\u20132\u202fPM",
+        "tuesday": "8\u202fAM\u20132\u202fPM",
+        "wednesday": "8\u202fAM\u20132\u202fPM",
+        "thursday": "8\u202fAM\u20132\u202fPM",
+        "friday": "8\u202fAM\u20132\u202fPM",
+        "saturday": "9\u202fAM\u20132\u202fPM",
+        "sunday": "9\u202fAM\u20132\u202fPM"
+      },
+      "phone": "+61478219334",
+      "website": "http://www.creasion.com.au/",
+      "description": "Breakfast & macarons in a tiny space. A tucked-away Asian coffee shop featuring breakfast, macarons and chai lattes served in a bowl.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqQcaqG-HmJUQAyBJKBPE47enE-Fl_gwpajX2IaPtQTNizSQiLI58MN1DMqZ_hI7T8jrZpl9L0NoY2D0n1acfN8nmeg0J_6vwqliUtPjBLNDxs3TMwOFhuuXjv8onv23pCOrw81jw=w86-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqQcaqG-HmJUQAyBJKBPE47enE-Fl_gwpajX2IaPtQTNizSQiLI58MN1DMqZ_hI7T8jrZpl9L0NoY2D0n1acfN8nmeg0J_6vwqliUtPjBLNDxs3TMwOFhuuXjv8onv23pCOrw81jw=w3024-h3025-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Cafe+Cre+Asion/@-33.873194,151.196206,19.072482753801523/data=!3m1!1e3!4m6!3m5!1s0x6b12ae17de14f317:0x12bd0ff873f79494!8m2!3d-33.873194!4d151.196206!16s"
+    },
+    {
+      "title": "Oh!Matcha",
+      "place_id": "ChIJlUT2NzyuEmsRaShTHzvKxOI",
+      "data_id": "0x6b12ae3c37f64495:0xe2c4ca3b1f532869",
+      "data_cid": "-2106336370425124759",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae3c37f64495:0xe2c4ca3b1f532869",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae3c37f64495:0xe2c4ca3b1f532869",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae3c37f64495:0xe2c4ca3b1f532869",
+      "gps_coordinates": {
+        "latitude": -33.8747289,
+        "longitude": 151.2062901
+      },
+      "provider_id": "/g/1hhhwzqws",
+      "rating": 4.1,
+      "reviews": 849,
+      "price": "A$1\u201320",
+      "type": "Cafe",
+      "types": [
+        "Cafe",
+        "Coffee shop"
+      ],
+      "address": "Shop 11/501 George St,Sydney NSW 2000,Australia",
+      "open_state": "Closed \u22c5 Opens 12\u202fPM Tue",
+      "hours": "Closed \u22c5 Opens 12\u202fPM Tue",
+      "operating_hours": {
+        "monday": "12\u20139:30\u202fPM",
+        "tuesday": "12\u20139:30\u202fPM",
+        "wednesday": "12\u20139:30\u202fPM",
+        "thursday": "12\u201310\u202fPM",
+        "friday": "12\u201310\u202fPM",
+        "saturday": "11\u202fAM\u201310\u202fPM",
+        "sunday": "11\u202fAM\u20139:30\u202fPM"
+      },
+      "website": "http://ohmatcha.com.au/",
+      "description": "Japanese tearoom meets fast food. Modern Japanese tearoom serving creative fast food like green tea lattes and tonkatsu hot dogs.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npi7HYnYxtUOh8di7OgL0QjoGKFwZW1rJ_58_Zk7G6FmPj1VI7ngGVml_kax2prs1fsAFnQduZE_86ij22hL9jwYvJo19_81AmN5NvEo48BE-TTH14pb5B6Ciw0zCZiuGWZb4c=w86-h114-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npi7HYnYxtUOh8di7OgL0QjoGKFwZW1rJ_58_Zk7G6FmPj1VI7ngGVml_kax2prs1fsAFnQduZE_86ij22hL9jwYvJo19_81AmN5NvEo48BE-TTH14pb5B6Ciw0zCZiuGWZb4c=w3024-h4032-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Oh!Matcha/@-33.8747289,151.2062901,19.072482753801523/data=!3m1!1e3!4m6!3m5!1s0x6b12ae3c37f64495:0xe2c4ca3b1f532869!8m2!3d-33.8747289!4d151.2062901!16s"
+    },
+    {
+      "title": "Torori Warabimochi Australia",
+      "place_id": "ChIJwfwR7NivEmsR8VJrgr7dtSU",
+      "data_id": "0x6b12afd8ec11fcc1:0x25b5ddbe826b52f1",
+      "data_cid": "2717321760489558769",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12afd8ec11fcc1:0x25b5ddbe826b52f1",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12afd8ec11fcc1:0x25b5ddbe826b52f1",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12afd8ec11fcc1:0x25b5ddbe826b52f1",
+      "gps_coordinates": {
+        "latitude": -33.8799521,
+        "longitude": 151.20343549999998
+      },
+      "provider_id": "/g/11y5s6trw5",
+      "rating": 4.8,
+      "reviews": 726,
+      "price": "A$1\u201320",
+      "type": "Cafe",
+      "types": [
+        "Cafe"
+      ],
+      "address": "Floor 2/13 Hay St,Haymarket NSW 2000,Australia",
+      "open_state": "Closed \u22c5 Opens 10\u202fAM Tue",
+      "hours": "Closed \u22c5 Opens 10\u202fAM Tue",
+      "operating_hours": {
+        "monday": "10\u202fAM\u20138\u202fPM",
+        "tuesday": "10\u202fAM\u20138\u202fPM",
+        "wednesday": "10\u202fAM\u20138\u202fPM",
+        "thursday": "10\u202fAM\u20139\u202fPM",
+        "friday": "10\u202fAM\u20139\u202fPM",
+        "saturday": "10\u202fAM\u20139\u202fPM",
+        "sunday": "10\u202fAM\u20138\u202fPM"
+      },
+      "phone": "+61280213995",
+      "website": "https://www.instagram.com/warabimochisyd",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPQkn5a6W03d1Ggh_t8kdIkJaKPVIfkjw5MVd6Q=w86-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipPQkn5a6W03d1Ggh_t8kdIkJaKPVIfkjw5MVd6Q=w3958-h3958-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Torori+Warabimochi+Australia/@-33.8799521,151.20343549999998,19.072482753801523/data=!3m1!1e3!4m6!3m5!1s0x6b12afd8ec11fcc1:0x25b5ddbe826b52f1!8m2!3d-33.8799521!4d151.20343549999998!16s"
+    },
+    {
+      "title": "Bruce Tea & Coffee",
+      "place_id": "ChIJH_n24iyuEmsR1PBb43J2MNs",
+      "data_id": "0x6b12ae2ce2f6f91f:0xdb307672e35bf0d4",
+      "data_cid": "-2652489944708419372",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae2ce2f6f91f:0xdb307672e35bf0d4",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae2ce2f6f91f:0xdb307672e35bf0d4",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae2ce2f6f91f:0xdb307672e35bf0d4",
+      "gps_coordinates": {
+        "latitude": -33.8765083,
+        "longitude": 151.1889479
+      },
+      "provider_id": "/g/11c30zx1xj",
+      "rating": 4.7,
+      "reviews": 263,
+      "price": "A$1\u201320",
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Cafe",
+        "Coffee roasters",
+        "Coffee wholesaler",
+        "Pie shop",
+        "Sandwich shop",
+        "Tea house",
+        "Tea store",
+        "Tea wholesaler"
+      ],
+      "address": "12 Bridge Rd,Glebe NSW 2037,Australia",
+      "open_state": "Closed \u22c5 Opens 6:30\u202fAM Tue",
+      "hours": "Closed \u22c5 Opens 6:30\u202fAM Tue",
+      "operating_hours": {
+        "monday": "6:30\u202fAM\u20132\u202fPM",
+        "tuesday": "6:30\u202fAM\u20132\u202fPM",
+        "wednesday": "6:30\u202fAM\u20132\u202fPM",
+        "thursday": "6:30\u202fAM\u20132\u202fPM",
+        "friday": "6:30\u202fAM\u20132\u202fPM",
+        "saturday": "7\u202fAM\u20131\u202fPM",
+        "sunday": "Closed"
+      },
+      "website": "http://www.bruceteacoffee.com.au/",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNKmINhh9v4f3ceS_sPPHYMtHmtaFux85MR06vP=w86-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipNKmINhh9v4f3ceS_sPPHYMtHmtaFux85MR06vP=w2089-h2089-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Bruce+Tea+&+Coffee/@-33.8765083,151.1889479,19.072482753801523/data=!3m1!1e3!4m6!3m5!1s0x6b12ae2ce2f6f91f:0xdb307672e35bf0d4!8m2!3d-33.8765083!4d151.1889479!16s"
+    },
+    {
+      "title": "The Famous Pyrmont",
+      "place_id": "ChIJkQc80_2vEmsRbKcjGMLN-iw",
+      "data_id": "0x6b12affdd33c0791:0x2cfacdc21823a76c",
+      "data_cid": "3241129115358832492",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12affdd33c0791:0x2cfacdc21823a76c",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12affdd33c0791:0x2cfacdc21823a76c",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12affdd33c0791:0x2cfacdc21823a76c",
+      "gps_coordinates": {
+        "latitude": -33.8703888,
+        "longitude": 151.1967812
+      },
+      "provider_id": "/g/11x928wxlc",
+      "rating": 5,
+      "reviews": 20,
+      "price": "A$1\u201320",
+      "type": "Cafe",
+      "types": [
+        "Cafe"
+      ],
+      "address": "Shop 2/1/9 Pyrmont Bridge Rd,Pyrmont NSW 2009,Australia",
+      "open_state": "Closed \u22c5 Opens 7\u202fAM Tue",
+      "hours": "Closed \u22c5 Opens 7\u202fAM Tue",
+      "operating_hours": {
+        "monday": "7\u202fAM\u20133\u202fPM",
+        "tuesday": "7\u202fAM\u20133\u202fPM",
+        "wednesday": "7\u202fAM\u20133\u202fPM",
+        "thursday": "7\u202fAM\u20133\u202fPM",
+        "friday": "7\u202fAM\u20133\u202fPM",
+        "saturday": "7\u202fAM\u20133\u202fPM",
+        "sunday": "7\u202fAM\u20133\u202fPM"
+      },
+      "website": "https://menu.thefamous.is/",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPVxNSE0b99wzgW7htMNwzvADJoBEFK0tCsS6dM=w113-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipPVxNSE0b99wzgW7htMNwzvADJoBEFK0tCsS6dM=w1272-h964-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/The+Famous+Pyrmont/@-33.8703888,151.1967812,19.072482753801523/data=!3m1!1e3!4m6!3m5!1s0x6b12affdd33c0791:0x2cfacdc21823a76c!8m2!3d-33.8703888!4d151.1967812!16s"
+    },
+    {
+      "title": "Stitch Coffee Broadway",
+      "place_id": "ChIJf-5n3HWvEmsRwrzJ27_9NYs",
+      "data_id": "0x6b12af75dc67ee7f:0x8b35fdbfdbc9bcc2",
+      "data_cid": "-8415541328203891518",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af75dc67ee7f:0x8b35fdbfdbc9bcc2",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af75dc67ee7f:0x8b35fdbfdbc9bcc2",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af75dc67ee7f:0x8b35fdbfdbc9bcc2",
+      "gps_coordinates": {
+        "latitude": -33.8834258,
+        "longitude": 151.19511029999998
+      },
+      "provider_id": "/g/11nh470t85",
+      "rating": 4.6,
+      "reviews": 296,
+      "price": "A$1\u201320",
+      "type": "Cafe",
+      "types": [
+        "Cafe"
+      ],
+      "address": "80 Bay St,Ultimo NSW 2007,Australia",
+      "open_state": "Closed \u22c5 Opens 7\u202fAM Tue",
+      "hours": "Closed \u22c5 Opens 7\u202fAM Tue",
+      "operating_hours": {
+        "monday": "7\u202fAM\u20133\u202fPM",
+        "tuesday": "7\u202fAM\u20133\u202fPM",
+        "wednesday": "7\u202fAM\u20133\u202fPM",
+        "thursday": "7\u202fAM\u20133\u202fPM",
+        "friday": "7\u202fAM\u20133\u202fPM",
+        "saturday": "8\u202fAM\u20132:30\u202fPM",
+        "sunday": "Closed"
+      },
+      "website": "http://stitch.coffee/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5lam8cV3dYqTz7GSCVzWcHStZil10RKyGPXoKfRMxsYmN_5zraPGoCmWi1JiuLZfjHfqi6JkXmhTEgkFIxiOkNLudXI47dmtV-44ejB-7BCULwtefipFaphAfjW5fUguZimywOg=w86-h114-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5lam8cV3dYqTz7GSCVzWcHStZil10RKyGPXoKfRMxsYmN_5zraPGoCmWi1JiuLZfjHfqi6JkXmhTEgkFIxiOkNLudXI47dmtV-44ejB-7BCULwtefipFaphAfjW5fUguZimywOg=w4284-h5712-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Stitch+Coffee+Broadway/@-33.8834258,151.19511029999998,19.072482753801523/data=!3m1!1e3!4m6!3m5!1s0x6b12af75dc67ee7f:0x8b35fdbfdbc9bcc2!8m2!3d-33.8834258!4d151.19511029999998!16s"
+    },
+    {
+      "title": "San Java",
+      "place_id": "ChIJL866EbKvEmsR3QlbqpcyKAk",
+      "data_id": "0x6b12afb211bace2f:0x9283297aa5b09dd",
+      "data_cid": "659832972389321181",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12afb211bace2f:0x9283297aa5b09dd",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12afb211bace2f:0x9283297aa5b09dd",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12afb211bace2f:0x9283297aa5b09dd",
+      "gps_coordinates": {
+        "latitude": -33.8867012,
+        "longitude": 151.21353399999998
+      },
+      "provider_id": "/g/11vt82sqt5",
+      "rating": 4.7,
+      "reviews": 82,
+      "price": "A$1\u201320",
+      "type": "Cafe",
+      "types": [
+        "Cafe"
+      ],
+      "address": "433 Crown St,Surry Hills NSW 2010,Australia",
+      "open_state": "Closed \u22c5 Opens 8\u202fAM Tue",
+      "hours": "Closed \u22c5 Opens 8\u202fAM Tue",
+      "operating_hours": {
+        "monday": "8\u202fAM\u20134\u202fPM",
+        "tuesday": "8\u202fAM\u20134\u202fPM",
+        "wednesday": "8\u202fAM\u20134\u202fPM",
+        "thursday": "8\u202fAM\u20134\u202fPM",
+        "friday": "8\u202fAM\u20134\u202fPM",
+        "saturday": "8\u202fAM\u20135\u202fPM",
+        "sunday": "8\u202fAM\u20135\u202fPM"
+      },
+      "phone": "+61452570082",
+      "website": "http://instagram.com/san_java.id",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqYCKGRlcLX0PUbjIASA1pXO6T-HktPqeFK96UoVcGWUK3ZynTx_tgKH7ULQ0GosXuwGAjhUWHZDcTIBqvMUByOYsxwDpZQ-kuxfPAsy8vsZdKak2gAxGdG41eVWYeHudcTBAA=w86-h114-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqYCKGRlcLX0PUbjIASA1pXO6T-HktPqeFK96UoVcGWUK3ZynTx_tgKH7ULQ0GosXuwGAjhUWHZDcTIBqvMUByOYsxwDpZQ-kuxfPAsy8vsZdKak2gAxGdG41eVWYeHudcTBAA=w4284-h5712-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/San+Java/@-33.8867012,151.21353399999998,19.072482753801523/data=!3m1!1e3!4m6!3m5!1s0x6b12afb211bace2f:0x9283297aa5b09dd!8m2!3d-33.8867012!4d151.21353399999998!16s"
+    },
+    {
+      "title": "Cafe Maru",
+      "place_id": "ChIJ3-yzVgCvEmsRfbb4TSR_U8E",
+      "data_id": "0x6b12af0056b3ecdf:0xc1537f244df8b67d",
+      "data_cid": "-4516126207418780035",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af0056b3ecdf:0xc1537f244df8b67d",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af0056b3ecdf:0xc1537f244df8b67d",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af0056b3ecdf:0xc1537f244df8b67d",
+      "gps_coordinates": {
+        "latitude": -33.8631654,
+        "longitude": 151.2037784
+      },
+      "provider_id": "/g/11w8ff0mpq",
+      "rating": 5,
+      "reviews": 20,
+      "price": "A$1\u201320",
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop"
+      ],
+      "address": "189 Kent St,Sydney NSW 2000,Australia",
+      "open_state": "Closed \u22c5 Opens 7\u202fAM Tue",
+      "hours": "Closed \u22c5 Opens 7\u202fAM Tue",
+      "operating_hours": {
+        "monday": "7\u202fAM\u20132:30\u202fPM",
+        "tuesday": "7\u202fAM\u20132:30\u202fPM",
+        "wednesday": "7\u202fAM\u20132:30\u202fPM",
+        "thursday": "7\u202fAM\u20132:30\u202fPM",
+        "friday": "7\u202fAM\u20132:30\u202fPM",
+        "saturday": "Closed",
+        "sunday": "Closed"
+      },
+      "unclaimed_business": true,
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npfMN4ZXuwHzIRsOdzxqgOEbaSNyjHiiM5b4qPzbh3xufTR7ZnXNU_6v-xJX2o9cWCsIDKUrNhtR_qLT0MZGps8WmLUmkbPs4p8l0suU-l6Dhczz-Fud4CBRnCmhOBc-LI3MrC9=w86-h114-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npfMN4ZXuwHzIRsOdzxqgOEbaSNyjHiiM5b4qPzbh3xufTR7ZnXNU_6v-xJX2o9cWCsIDKUrNhtR_qLT0MZGps8WmLUmkbPs4p8l0suU-l6Dhczz-Fud4CBRnCmhOBc-LI3MrC9=w3472-h4624-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Cafe+Maru/@-33.8631654,151.2037784,19.072482753801523/data=!3m1!1e3!4m6!3m5!1s0x6b12af0056b3ecdf:0xc1537f244df8b67d!8m2!3d-33.8631654!4d151.2037784!16s"
+    },
+    {
+      "title": "Kahii",
+      "place_id": "ChIJUxmf1j6uEmsRuBHglFY6U-g",
+      "data_id": "0x6b12ae3ed69f1953:0xe8533a5694e011b8",
+      "data_cid": "-1705955690303974984",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae3ed69f1953:0xe8533a5694e011b8",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae3ed69f1953:0xe8533a5694e011b8",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae3ed69f1953:0xe8533a5694e011b8",
+      "gps_coordinates": {
+        "latitude": -33.870377,
+        "longitude": 151.2049956
+      },
+      "provider_id": "/g/11cmh07f98",
+      "rating": 4.4,
+      "reviews": 307,
+      "price": "A$1\u201320",
+      "type": "Cafe",
+      "types": [
+        "Cafe",
+        "Bar",
+        "Cocktail bar",
+        "Coffee shop",
+        "Coffee store",
+        "Event venue",
+        "Japanese restaurant",
+        "Lunch restaurant",
+        "Tea store",
+        "Wine bar"
+      ],
+      "address": "Kelco House,Lobby/364 Kent St,Sydney NSW 2000,Australia",
+      "open_state": "Closed \u22c5 Opens 8\u202fAM Tue",
+      "hours": "Closed \u22c5 Opens 8\u202fAM Tue",
+      "operating_hours": {
+        "monday": "8\u202fAM\u20133\u202fPM",
+        "tuesday": "8\u202fAM\u20133:30\u202fPM,5\u202fPM\u201312\u202fAM",
+        "wednesday": "8\u202fAM\u20133:30\u202fPM,5\u202fPM\u201312\u202fAM",
+        "thursday": "8\u202fAM\u20133:30\u202fPM,5\u202fPM\u201312\u202fAM",
+        "friday": "8\u202fAM\u20133:30\u202fPM,5\u202fPM\u20131:30\u202fAM",
+        "saturday": "5\u202fPM\u201312\u202fAM",
+        "sunday": "Closed"
+      },
+      "website": "http://kahii.com.au/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np_VRERJAEOu6TXoJ5IS-oRVruPw5LP96pvqg4QN1CN888jsgtWmMFKRPogMBI-UM2nwkeH3uzTZsHxjN_f1NxjApH6kGrxhL6MlbRNIEUSZIZZl39VZOKeLIkOsLJRsAZCXTez=w86-h114-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np_VRERJAEOu6TXoJ5IS-oRVruPw5LP96pvqg4QN1CN888jsgtWmMFKRPogMBI-UM2nwkeH3uzTZsHxjN_f1NxjApH6kGrxhL6MlbRNIEUSZIZZl39VZOKeLIkOsLJRsAZCXTez=w3024-h4032-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Kahii/@-33.870377,151.2049956,19.072482753801523/data=!3m1!1e3!4m6!3m5!1s0x6b12ae3ed69f1953:0xe8533a5694e011b8!8m2!3d-33.870377!4d151.2049956!16s"
+    }
+  ],
+  "dessert": [
+    {
+      "title": "San Churro Glebe",
+      "place_id": "ChIJUZiZPiquEmsRWhFSBuVWCvQ",
+      "data_id": "0x6b12ae2a3e999851:0xf40a56e50652115a",
+      "data_cid": "-861780837034487462",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae2a3e999851:0xf40a56e50652115a",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae2a3e999851:0xf40a56e50652115a",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae2a3e999851:0xf40a56e50652115a",
+      "gps_coordinates": {
+        "latitude": -33.8832737,
+        "longitude": 151.19156859999998
+      },
+      "provider_id": "/g/1xgzbyc4",
+      "rating": 4.6,
+      "reviews": 1669,
+      "price": "A$1\u201320",
+      "type": "Dessert restaurant",
+      "types": [
+        "Dessert restaurant",
+        "Chocolate shop"
+      ],
+      "address": "47 Glebe Point Rd,Glebe NSW 2037,Australia",
+      "open_state": "Closes soon \u22c5 10:45\u202fPM \u22c5 Opens 12\u202fPM Tue",
+      "hours": "Closes soon \u22c5 10:45\u202fPM \u22c5 Opens 12\u202fPM Tue",
+      "operating_hours": {
+        "monday": "12\u201310:45\u202fPM",
+        "tuesday": "12\u201310:45\u202fPM",
+        "wednesday": "12\u201310:45\u202fPM",
+        "thursday": "12\u201310:45\u202fPM",
+        "friday": "12\u201311\u202fPM",
+        "saturday": "11\u202fAM\u201311\u202fPM",
+        "sunday": "12\u201310:45\u202fPM"
+      },
+      "phone": "+61296920119",
+      "website": "http://www.sanchurro.com/",
+      "description": "Fair-trade coffee, churros & desserts. Vibrant chain cafe offering churros & decadent desserts, plus organic, fair-trade coffee.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrPqOFQZjMBOYArDNKdyKWXi1jnN_AMiuOtHhmj5d8F1fc7zB0Bo7MZmTU2fcx114Mka_RLNMCGtSkeokVMk-2L4Uhl-m6LVfCa9lruMgHe9nmYqbiJMqgMD-sm2XD3Iu1BbrkhHA=w86-h114-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrPqOFQZjMBOYArDNKdyKWXi1jnN_AMiuOtHhmj5d8F1fc7zB0Bo7MZmTU2fcx114Mka_RLNMCGtSkeokVMk-2L4Uhl-m6LVfCa9lruMgHe9nmYqbiJMqgMD-sm2XD3Iu1BbrkhHA=w3024-h4032-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/San+Churro+Glebe/@-33.8832737,151.19156859999998,19.072482753801523/data=!3m1!1e3!4m6!3m5!1s0x6b12ae2a3e999851:0xf40a56e50652115a!8m2!3d-33.8832737!4d151.19156859999998!16s"
+    }
+  ],
+  "thai": [
+    {
+      "title": "MANA Thai Bistro - Glebe",
+      "place_id": "ChIJmTOLG-qvEmsRszwzRbEmeyU",
+      "data_id": "0x6b12afea1b8b3399:0x257b26b145333cb3",
+      "data_cid": "2700794944350796979",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12afea1b8b3399:0x257b26b145333cb3",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12afea1b8b3399:0x257b26b145333cb3",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12afea1b8b3399:0x257b26b145333cb3",
+      "gps_coordinates": {
+        "latitude": -33.876082,
+        "longitude": 151.18969479999998
+      },
+      "provider_id": "/g/11k9gs6fky",
+      "rating": 4.9,
+      "reviews": 22,
+      "price": "A$1\u201320",
+      "type": "Thai restaurant",
+      "types": [
+        "Thai restaurant"
+      ],
+      "address": "Cnr Bellevue, Kauri Foreshore Hotel,2 Bridge Rd,Glebe NSW 2037,Australia",
+      "open_state": "Closed \u22c5 Opens 11:30\u202fAM Tue",
+      "hours": "Closed \u22c5 Opens 11:30\u202fAM Tue",
+      "operating_hours": {
+        "monday": "11:30\u202fAM\u20133\u202fPM,5\u20139\u202fPM",
+        "tuesday": "11:30\u202fAM\u20133\u202fPM,5\u20139\u202fPM",
+        "wednesday": "11:30\u202fAM\u20133\u202fPM,5\u20139\u202fPM",
+        "thursday": "11:30\u202fAM\u20133\u202fPM,5\u20139\u202fPM",
+        "friday": "11:30\u202fAM\u20133\u202fPM,5\u20139\u202fPM",
+        "saturday": "11:30\u202fAM\u20133\u202fPM,5\u20139\u202fPM",
+        "sunday": "12\u20139\u202fPM"
+      },
+      "phone": "+61422694799",
+      "website": "http://www.facebook.com/manathaibistro",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNTmVixJHl1SPrH_zl2oyi-1D55doWmNMJXF96S=w86-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipNTmVixJHl1SPrH_zl2oyi-1D55doWmNMJXF96S=w1500-h1500-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/MANA+Thai+Bistro+-+Glebe/@-33.876082,151.18969479999998,19.072482753801523/data=!3m1!1e3!4m6!3m5!1s0x6b12afea1b8b3399:0x257b26b145333cb3!8m2!3d-33.876082!4d151.18969479999998!16s"
+    },
+    {
+      "title": "Tom-Yum Tum-Gang",
+      "place_id": "ChIJNza4s9SvEmsRnhMjTiNplWQ",
+      "data_id": "0x6b12afd4b3b83637:0x649569234e23139e",
+      "data_cid": "7247814775678374814",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12afd4b3b83637:0x649569234e23139e",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12afd4b3b83637:0x649569234e23139e",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12afd4b3b83637:0x649569234e23139e",
+      "gps_coordinates": {
+        "latitude": -33.8792639,
+        "longitude": 151.18667499999998
+      },
+      "provider_id": "/g/1th63jns",
+      "rating": 4.6,
+      "reviews": 1451,
+      "price": "A$1\u201320",
+      "type": "Thai restaurant",
+      "types": [
+        "Thai restaurant",
+        "Takeout Restaurant"
+      ],
+      "address": "249 Glebe Point Rd,Glebe NSW 2037,Australia",
+      "open_state": "Closed \u22c5 Opens 11\u202fAM Wed",
+      "hours": "Closed \u22c5 Opens 11\u202fAM Wed",
+      "operating_hours": {
+        "monday": "11\u202fAM\u20139\u202fPM",
+        "tuesday": "Closed",
+        "wednesday": "11\u202fAM\u20139\u202fPM",
+        "thursday": "11\u202fAM\u20139\u202fPM",
+        "friday": "11\u202fAM\u20139\u202fPM",
+        "saturday": "11\u202fAM\u20139\u202fPM",
+        "sunday": "11\u202fAM\u20139\u202fPM"
+      },
+      "phone": "+61280650859",
+      "unclaimed_business": true,
+      "website": "https://m.facebook.com/Tom-Yum-Tum-Gang-241361825914462/",
+      "description": "Busy, casual outpost for Thai classics. Popular restaurant serving traditional Thai staples in straightforward surrounds with outdoor seats.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrWNgrhWLNe9BBHCuUUSkTEMQ7sGWpPkzTHphQKzFpEf_mTWSXKJrBMHsZdg79xDH9U4EzBv5P1WxUIu6moN5MJZrf1KCgEwGM08n46x-0lE5_lbACuiQ56nGUKwAv70ivzQQ=w152-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrWNgrhWLNe9BBHCuUUSkTEMQ7sGWpPkzTHphQKzFpEf_mTWSXKJrBMHsZdg79xDH9U4EzBv5P1WxUIu6moN5MJZrf1KCgEwGM08n46x-0lE5_lbACuiQ56nGUKwAv70ivzQQ=w4656-h2620-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Tom-Yum+Tum-Gang/@-33.8792639,151.18667499999998,19.072482753801523/data=!3m1!1e3!4m6!3m5!1s0x6b12afd4b3b83637:0x649569234e23139e!8m2!3d-33.8792639!4d151.18667499999998!16s"
+    },
+    {
+      "title": "Khao Hom Thai Restaurant",
+      "place_id": "ChIJY3mxNqGuEmsRxetL_gLJDF0",
+      "data_id": "0x6b12aea136b17963:0x5d0cc902fe4bebc5",
+      "data_cid": "6704954959941331909",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12aea136b17963:0x5d0cc902fe4bebc5",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12aea136b17963:0x5d0cc902fe4bebc5",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12aea136b17963:0x5d0cc902fe4bebc5",
+      "gps_coordinates": {
+        "latitude": -33.8776351,
+        "longitude": 151.1856196
+      },
+      "provider_id": "/g/1tffznmj",
+      "rating": 4.6,
+      "reviews": 273,
+      "price": "A$1\u201320",
+      "type": "Thai restaurant",
+      "types": [
+        "Thai restaurant"
+      ],
+      "address": "shop 3/315-317 Glebe Point Rd,Glebe NSW 2037,Australia",
+      "open_state": "Closed \u22c5 Opens 11\u202fAM Tue",
+      "hours": "Closed \u22c5 Opens 11\u202fAM Tue",
+      "operating_hours": {
+        "monday": "11\u202fAM\u20139\u202fPM",
+        "tuesday": "11\u202fAM\u20139\u202fPM",
+        "wednesday": "11\u202fAM\u20139\u202fPM",
+        "thursday": "11\u202fAM\u20139\u202fPM",
+        "friday": "11\u202fAM\u20139\u202fPM",
+        "saturday": "11\u202fAM\u20139\u202fPM",
+        "sunday": "11\u202fAM\u20139\u202fPM"
+      },
+      "phone": "+61299538822",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqYiV7QzjE9FUvreYHFuHKxxPUYnG4Zz8MTQCIjt-C3cEyep8G9H-wA81MXm2wb3g-49kGaH-qs5dg22I2NMRDRR6N5poYiOHv6fvY2Mp_1Zsh6fqsUKdGaMOG2_6cFXB4iGfNWjOp-UA1U=w100-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqYiV7QzjE9FUvreYHFuHKxxPUYnG4Zz8MTQCIjt-C3cEyep8G9H-wA81MXm2wb3g-49kGaH-qs5dg22I2NMRDRR6N5poYiOHv6fvY2Mp_1Zsh6fqsUKdGaMOG2_6cFXB4iGfNWjOp-UA1U=w3072-h2628-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Khao+Hom+Thai+Restaurant/@-33.8776351,151.1856196,19.072482753801523/data=!3m1!1e3!4m6!3m5!1s0x6b12aea136b17963:0x5d0cc902fe4bebc5!8m2!3d-33.8776351!4d151.1856196!16s"
+    },
+    {
+      "title": "Jumbo Thai",
+      "place_id": "ChIJgd0lOTeuEmsR4NFilma8ago",
+      "data_id": "0x6b12ae373925dd81:0xa6abc669662d1e0",
+      "data_cid": "750619436706353632",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae373925dd81:0xa6abc669662d1e0",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae373925dd81:0xa6abc669662d1e0",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae373925dd81:0xa6abc669662d1e0",
+      "gps_coordinates": {
+        "latitude": -33.869581,
+        "longitude": 151.19683759999998
+      },
+      "provider_id": "/g/1pwfxkltz",
+      "rating": 4.4,
+      "reviews": 319,
+      "price": "A$1\u201320",
+      "type": "Thai restaurant",
+      "types": [
+        "Thai restaurant",
+        "Takeout Restaurant"
+      ],
+      "address": "60 Union St,Pyrmont NSW 2009,Australia",
+      "open_state": "Closed \u22c5 Opens 10\u202fAM Tue",
+      "hours": "Closed \u22c5 Opens 10\u202fAM Tue",
+      "operating_hours": {
+        "monday": "10\u202fAM\u20139\u202fPM",
+        "tuesday": "10\u202fAM\u20139\u202fPM",
+        "wednesday": "10\u202fAM\u20139\u202fPM",
+        "thursday": "10\u202fAM\u20139\u202fPM",
+        "friday": "10\u202fAM\u20139\u202fPM",
+        "saturday": "10\u202fAM\u20139\u202fPM",
+        "sunday": "10\u202fAM\u20139\u202fPM"
+      },
+      "phone": "+61296609249",
+      "website": "http://www.facebook.com/jumbothaisydney",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no2sH6GRdrxwxiyi8XGUQkmpkjeWatOo-0n-Gyx4YutrxZsEjHuDNNCthlFb97suMgyB4mOH2lN9trYdxE6gMfqAStN2-gD2Lmw5z0eTo68krSSqQ1udq0mkLqhPmlNMCE1qRZ4fg=w86-h152-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no2sH6GRdrxwxiyi8XGUQkmpkjeWatOo-0n-Gyx4YutrxZsEjHuDNNCthlFb97suMgyB4mOH2lN9trYdxE6gMfqAStN2-gD2Lmw5z0eTo68krSSqQ1udq0mkLqhPmlNMCE1qRZ4fg=w2988-h5312-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Jumbo+Thai/@-33.869581,151.19683759999998,19.072482753801523/data=!3m1!1e3!4m6!3m5!1s0x6b12ae373925dd81:0xa6abc669662d1e0!8m2!3d-33.869581!4d151.19683759999998!16s"
+    },
+    {
+      "title": "Thai Ginger Rice",
+      "place_id": "ChIJCRlVT4-vEmsRFiuRLvb9VXM",
+      "data_id": "0x6b12af8f4f551909:0x7355fdf62e912b16",
+      "data_cid": "8310827921167166230",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af8f4f551909:0x7355fdf62e912b16",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af8f4f551909:0x7355fdf62e912b16",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af8f4f551909:0x7355fdf62e912b16",
+      "gps_coordinates": {
+        "latitude": -33.882379199999995,
+        "longitude": 151.1902807
+      },
+      "provider_id": "/g/11vlxd22lc",
+      "rating": 4.6,
+      "reviews": 63,
+      "price": "A$1\u201320",
+      "type": "Thai restaurant",
+      "types": [
+        "Thai restaurant"
+      ],
+      "address": "93 Glebe Point Rd,Glebe NSW 2037,Australia",
+      "open_state": "Closed \u22c5 Opens 11\u202fAM Tue",
+      "hours": "Closed \u22c5 Opens 11\u202fAM Tue",
+      "operating_hours": {
+        "monday": "11\u202fAM\u201310\u202fPM",
+        "tuesday": "11\u202fAM\u201310\u202fPM",
+        "wednesday": "11\u202fAM\u201310\u202fPM",
+        "thursday": "11\u202fAM\u201310\u202fPM",
+        "friday": "11\u202fAM\u201310\u202fPM",
+        "saturday": "11\u202fAM\u201310\u202fPM",
+        "sunday": "11\u202fAM\u20133\u202fPM"
+      },
+      "phone": "+61451423443",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNvZmz4ERpr31GX_kpXare2HUEz-MLnPsJqo2f1=w86-h114-k-no",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipNvZmz4ERpr31GX_kpXare2HUEz-MLnPsJqo2f1=w3024-h4032-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Thai+Ginger+Rice/@-33.882379199999995,151.1902807,19.072482753801523/data=!3m1!1e3!4m6!3m5!1s0x6b12af8f4f551909:0x7355fdf62e912b16!8m2!3d-33.882379199999995!4d151.1902807!16s"
+    }
+  ]
+}

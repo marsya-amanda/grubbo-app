@@ -1,0 +1,21 @@
+{
+  "title": "245 Bridge Rd",
+  "place_id": "ChIJN3uN9imwEmsRtkze8IHVHn0",
+  "data_id": "0x6b12b029f68d7b37:0x7d1ed581f0de4cb6",
+  "data_cid": "9015878258110909622",
+  "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12b029f68d7b37:0x7d1ed581f0de4cb6",
+  "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12b029f68d7b37:0x7d1ed581f0de4cb6",
+  "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12b029f68d7b37:0x7d1ed581f0de4cb6",
+  "gps_coordinates": {
+    "latitude": -33.8828892,
+    "longitude": 151.18088889999999
+  },
+  "provider_id": "/g/11csg013dx",
+  "type": "Building",
+  "types": [
+    "Building"
+  ],
+  "address": "Forest Lodge NSW 2037,Australia",
+  "operating_hours": {},
+  "google_maps_url": "https://www.google.com/maps/place/245+Bridge+Rd/@-33.8828892,151.18088889999999,NaN/data=!3m1!1e3!4m6!3m5!1s0x6b12b029f68d7b37:0x7d1ed581f0de4cb6!8m2!3d-33.8828892!4d151.18088889999999!16s"
+}

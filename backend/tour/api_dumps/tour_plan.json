@@ -1,0 +1,293 @@
+{
+  "date": "2025-07-20",
+  "stop_0": {
+    "place": {
+      "title": "245 Bridge Rd",
+      "place_id": "ChIJN3uN9imwEmsRtkze8IHVHn0",
+      "data_id": "0x6b12b029f68d7b37:0x7d1ed581f0de4cb6",
+      "data_cid": "9015878258110909622",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12b029f68d7b37:0x7d1ed581f0de4cb6",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12b029f68d7b37:0x7d1ed581f0de4cb6",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12b029f68d7b37:0x7d1ed581f0de4cb6",
+      "gps_coordinates": {
+        "latitude": -33.8828892,
+        "longitude": 151.18088889999999
+      },
+      "provider_id": "/g/11csg013dx",
+      "type": "Building",
+      "types": [
+        "Building"
+      ],
+      "address": "Forest Lodge NSW 2037,Australia",
+      "operating_hours": {},
+      "google_maps_url": "https://www.google.com/maps/place/245+Bridge+Rd/@-33.8828892,151.18088889999999,NaN/data=!3m1!1e3!4m6!3m5!1s0x6b12b029f68d7b37:0x7d1ed581f0de4cb6!8m2!3d-33.8828892!4d151.18088889999999!16s"
+    }
+  },
+  "stop_1": {
+    "place": {
+      "title": "Thai Ginger Rice",
+      "place_id": "ChIJCRlVT4-vEmsRFiuRLvb9VXM",
+      "data_id": "0x6b12af8f4f551909:0x7355fdf62e912b16",
+      "data_cid": "8310827921167166230",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af8f4f551909:0x7355fdf62e912b16",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af8f4f551909:0x7355fdf62e912b16",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af8f4f551909:0x7355fdf62e912b16",
+      "gps_coordinates": {
+        "latitude": -33.882379199999995,
+        "longitude": 151.1902807
+      },
+      "provider_id": "/g/11vlxd22lc",
+      "rating": 4.6,
+      "reviews": 63,
+      "price": "A$1\u201320",
+      "type": "Thai restaurant",
+      "types": [
+        "Thai restaurant"
+      ],
+      "address": "93 Glebe Point Rd,Glebe NSW 2037,Australia",
+      "open_state": "Closed \u22c5 Opens 11\u202fAM Tue",
+      "hours": "Closed \u22c5 Opens 11\u202fAM Tue",
+      "operating_hours": {
+        "monday": "11\u202fAM\u201310\u202fPM",
+        "tuesday": "11\u202fAM\u201310\u202fPM",
+        "wednesday": "11\u202fAM\u201310\u202fPM",
+        "thursday": "11\u202fAM\u201310\u202fPM",
+        "friday": "11\u202fAM\u201310\u202fPM",
+        "saturday": "11\u202fAM\u201310\u202fPM",
+        "sunday": "11\u202fAM\u20133\u202fPM"
+      },
+      "phone": "+61451423443",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNvZmz4ERpr31GX_kpXare2HUEz-MLnPsJqo2f1=w86-h114-k-no",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipNvZmz4ERpr31GX_kpXare2HUEz-MLnPsJqo2f1=w3024-h4032-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Thai+Ginger+Rice/@-33.882379199999995,151.1902807,19.072482753801523/data=!3m1!1e3!4m6!3m5!1s0x6b12af8f4f551909:0x7355fdf62e912b16!8m2!3d-33.882379199999995!4d151.1902807!16s"
+    },
+    "arrival": "12:09",
+    "departure": "13:09",
+    "polyline": "twxmE}ovy[cBsDm@sAIOf@_@\\[AAFLpCuBsEuJjHoLVSFmCJ}LK?Ap@?mACSa@n@WEYUc@WAEkAiA}AfC"
+  },
+  "stop_2": {
+    "place": {
+      "title": "Stitch Coffee Broadway",
+      "place_id": "ChIJf-5n3HWvEmsRwrzJ27_9NYs",
+      "data_id": "0x6b12af75dc67ee7f:0x8b35fdbfdbc9bcc2",
+      "data_cid": "-8415541328203891518",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af75dc67ee7f:0x8b35fdbfdbc9bcc2",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af75dc67ee7f:0x8b35fdbfdbc9bcc2",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af75dc67ee7f:0x8b35fdbfdbc9bcc2",
+      "gps_coordinates": {
+        "latitude": -33.8834258,
+        "longitude": 151.19511029999998
+      },
+      "provider_id": "/g/11nh470t85",
+      "rating": 4.6,
+      "reviews": 296,
+      "price": "A$1\u201320",
+      "type": "Cafe",
+      "types": [
+        "Cafe"
+      ],
+      "address": "80 Bay St,Ultimo NSW 2007,Australia",
+      "open_state": "Closed \u22c5 Opens 7\u202fAM Tue",
+      "hours": "Closed \u22c5 Opens 7\u202fAM Tue",
+      "operating_hours": {
+        "monday": "7\u202fAM\u20133\u202fPM",
+        "tuesday": "7\u202fAM\u20133\u202fPM",
+        "wednesday": "7\u202fAM\u20133\u202fPM",
+        "thursday": "7\u202fAM\u20133\u202fPM",
+        "friday": "7\u202fAM\u20133\u202fPM",
+        "saturday": "8\u202fAM\u20132:30\u202fPM",
+        "sunday": "Closed"
+      },
+      "website": "http://stitch.coffee/",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5lam8cV3dYqTz7GSCVzWcHStZil10RKyGPXoKfRMxsYmN_5zraPGoCmWi1JiuLZfjHfqi6JkXmhTEgkFIxiOkNLudXI47dmtV-44ejB-7BCULwtefipFaphAfjW5fUguZimywOg=w86-h114-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np5lam8cV3dYqTz7GSCVzWcHStZil10RKyGPXoKfRMxsYmN_5zraPGoCmWi1JiuLZfjHfqi6JkXmhTEgkFIxiOkNLudXI47dmtV-44ejB-7BCULwtefipFaphAfjW5fUguZimywOg=w4284-h5712-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Stitch+Coffee+Broadway/@-33.8834258,151.19511029999998,19.072482753801523/data=!3m1!1e3!4m6!3m5!1s0x6b12af75dc67ee7f:0x8b35fdbfdbc9bcc2!8m2!3d-33.8834258!4d151.19511029999998!16s"
+    },
+    "arrival": "13:15",
+    "departure": "14:00",
+    "polyline": "dtxmE}ixy[tA{BPQXe@DMt@oA`@e@KO]aJUqGF@d@E"
+  },
+  "stop_3": {
+    "place": {
+      "title": "San Churro Glebe",
+      "place_id": "ChIJUZiZPiquEmsRWhFSBuVWCvQ",
+      "data_id": "0x6b12ae2a3e999851:0xf40a56e50652115a",
+      "data_cid": "-861780837034487462",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae2a3e999851:0xf40a56e50652115a",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae2a3e999851:0xf40a56e50652115a",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae2a3e999851:0xf40a56e50652115a",
+      "gps_coordinates": {
+        "latitude": -33.8832737,
+        "longitude": 151.19156859999998
+      },
+      "provider_id": "/g/1xgzbyc4",
+      "rating": 4.6,
+      "reviews": 1669,
+      "price": "A$1\u201320",
+      "type": "Dessert restaurant",
+      "types": [
+        "Dessert restaurant",
+        "Chocolate shop"
+      ],
+      "address": "47 Glebe Point Rd,Glebe NSW 2037,Australia",
+      "open_state": "Closes soon \u22c5 10:45\u202fPM \u22c5 Opens 12\u202fPM Tue",
+      "hours": "Closes soon \u22c5 10:45\u202fPM \u22c5 Opens 12\u202fPM Tue",
+      "operating_hours": {
+        "monday": "12\u201310:45\u202fPM",
+        "tuesday": "12\u201310:45\u202fPM",
+        "wednesday": "12\u201310:45\u202fPM",
+        "thursday": "12\u201310:45\u202fPM",
+        "friday": "12\u201311\u202fPM",
+        "saturday": "11\u202fAM\u201311\u202fPM",
+        "sunday": "12\u201310:45\u202fPM"
+      },
+      "phone": "+61296920119",
+      "website": "http://www.sanchurro.com/",
+      "description": "Fair-trade coffee, churros & desserts. Vibrant chain cafe offering churros & decadent desserts, plus organic, fair-trade coffee.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrPqOFQZjMBOYArDNKdyKWXi1jnN_AMiuOtHhmj5d8F1fc7zB0Bo7MZmTU2fcx114Mka_RLNMCGtSkeokVMk-2L4Uhl-m6LVfCa9lruMgHe9nmYqbiJMqgMD-sm2XD3Iu1BbrkhHA=w86-h114-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrPqOFQZjMBOYArDNKdyKWXi1jnN_AMiuOtHhmj5d8F1fc7zB0Bo7MZmTU2fcx114Mka_RLNMCGtSkeokVMk-2L4Uhl-m6LVfCa9lruMgHe9nmYqbiJMqgMD-sm2XD3Iu1BbrkhHA=w3024-h4032-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/San+Churro+Glebe/@-33.8832737,151.19156859999998,19.072482753801523/data=!3m1!1e3!4m6!3m5!1s0x6b12ae2a3e999851:0xf40a56e50652115a!8m2!3d-33.8832737!4d151.19156859999998!16s"
+    },
+    "arrival": "14:05",
+    "departure": "14:50",
+    "polyline": "rzxmE}gyy[e@DGAn@jRFLFHm@t@"
+  },
+  "stop_4": {
+    "place": {
+      "title": "Tom-Yum Tum-Gang",
+      "place_id": "ChIJNza4s9SvEmsRnhMjTiNplWQ",
+      "data_id": "0x6b12afd4b3b83637:0x649569234e23139e",
+      "data_cid": "7247814775678374814",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12afd4b3b83637:0x649569234e23139e",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12afd4b3b83637:0x649569234e23139e",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12afd4b3b83637:0x649569234e23139e",
+      "gps_coordinates": {
+        "latitude": -33.8792639,
+        "longitude": 151.18667499999998
+      },
+      "provider_id": "/g/1th63jns",
+      "rating": 4.6,
+      "reviews": 1451,
+      "price": "A$1\u201320",
+      "type": "Thai restaurant",
+      "types": [
+        "Thai restaurant",
+        "Takeout Restaurant"
+      ],
+      "address": "249 Glebe Point Rd,Glebe NSW 2037,Australia",
+      "open_state": "Closed \u22c5 Opens 11\u202fAM Wed",
+      "hours": "Closed \u22c5 Opens 11\u202fAM Wed",
+      "operating_hours": {
+        "monday": "11\u202fAM\u20139\u202fPM",
+        "tuesday": "Closed",
+        "wednesday": "11\u202fAM\u20139\u202fPM",
+        "thursday": "11\u202fAM\u20139\u202fPM",
+        "friday": "11\u202fAM\u20139\u202fPM",
+        "saturday": "11\u202fAM\u20139\u202fPM",
+        "sunday": "11\u202fAM\u20139\u202fPM"
+      },
+      "phone": "+61280650859",
+      "unclaimed_business": true,
+      "website": "https://m.facebook.com/Tom-Yum-Tum-Gang-241361825914462/",
+      "description": "Busy, casual outpost for Thai classics. Popular restaurant serving traditional Thai staples in straightforward surrounds with outdoor seats.",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrWNgrhWLNe9BBHCuUUSkTEMQ7sGWpPkzTHphQKzFpEf_mTWSXKJrBMHsZdg79xDH9U4EzBv5P1WxUIu6moN5MJZrf1KCgEwGM08n46x-0lE5_lbACuiQ56nGUKwAv70ivzQQ=w152-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrWNgrhWLNe9BBHCuUUSkTEMQ7sGWpPkzTHphQKzFpEf_mTWSXKJrBMHsZdg79xDH9U4EzBv5P1WxUIu6moN5MJZrf1KCgEwGM08n46x-0lE5_lbACuiQ56nGUKwAv70ivzQQ=w4656-h2620-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Tom-Yum+Tum-Gang/@-33.8792639,151.18667499999998,19.072482753801523/data=!3m1!1e3!4m6!3m5!1s0x6b12afd4b3b83637:0x649569234e23139e!8m2!3d-33.8792639!4d151.18667499999998!16s"
+    },
+    "arrival": "14:54",
+    "departure": "15:39",
+    "polyline": "vyxmE_rxy[JONNa@p@@BKMiN~TqCrBDJaAp@ESaBhA"
+  },
+  "stop_5": {
+    "place": {
+      "title": "Bruce Tea & Coffee",
+      "place_id": "ChIJH_n24iyuEmsR1PBb43J2MNs",
+      "data_id": "0x6b12ae2ce2f6f91f:0xdb307672e35bf0d4",
+      "data_cid": "-2652489944708419372",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae2ce2f6f91f:0xdb307672e35bf0d4",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae2ce2f6f91f:0xdb307672e35bf0d4",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12ae2ce2f6f91f:0xdb307672e35bf0d4",
+      "gps_coordinates": {
+        "latitude": -33.8765083,
+        "longitude": 151.1889479
+      },
+      "provider_id": "/g/11c30zx1xj",
+      "rating": 4.7,
+      "reviews": 263,
+      "price": "A$1\u201320",
+      "type": "Coffee shop",
+      "types": [
+        "Coffee shop",
+        "Cafe",
+        "Coffee roasters",
+        "Coffee wholesaler",
+        "Pie shop",
+        "Sandwich shop",
+        "Tea house",
+        "Tea store",
+        "Tea wholesaler"
+      ],
+      "address": "12 Bridge Rd,Glebe NSW 2037,Australia",
+      "open_state": "Closed \u22c5 Opens 6:30\u202fAM Tue",
+      "hours": "Closed \u22c5 Opens 6:30\u202fAM Tue",
+      "operating_hours": {
+        "monday": "6:30\u202fAM\u20132\u202fPM",
+        "tuesday": "6:30\u202fAM\u20132\u202fPM",
+        "wednesday": "6:30\u202fAM\u20132\u202fPM",
+        "thursday": "6:30\u202fAM\u20132\u202fPM",
+        "friday": "6:30\u202fAM\u20132\u202fPM",
+        "saturday": "7\u202fAM\u20131\u202fPM",
+        "sunday": "Closed"
+      },
+      "website": "http://www.bruceteacoffee.com.au/",
+      "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNKmINhh9v4f3ceS_sPPHYMtHmtaFux85MR06vP=w86-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipNKmINhh9v4f3ceS_sPPHYMtHmtaFux85MR06vP=w2089-h2089-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Bruce+Tea+&+Coffee/@-33.8765083,151.1889479,19.072482753801523/data=!3m1!1e3!4m6!3m5!1s0x6b12ae2ce2f6f91f:0xdb307672e35bf0d4!8m2!3d-33.8765083!4d151.1889479!16s"
+    },
+    "arrival": "15:48",
+    "departure": "16:33",
+    "polyline": "dtxmE}ixy[}@vAPJLUD@KMcHbLqGvEsDlCJTEIqA`AOS_@_AIGg@oADG}@sBC]C_@AWOa@G[Q@c@We@o@mAcC"
+  },
+  "stop_6": {
+    "place": {
+      "title": "Pier Pavilion",
+      "place_id": "ChIJGQP1KwCvEmsRgUohwV0pKbQ",
+      "data_id": "0x6b12af002bf50319:0xb429295dc1214a81",
+      "data_cid": "-5464791190188504447",
+      "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af002bf50319:0xb429295dc1214a81",
+      "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af002bf50319:0xb429295dc1214a81",
+      "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af002bf50319:0xb429295dc1214a81",
+      "gps_coordinates": {
+        "latitude": -33.863865,
+        "longitude": 151.20083549999998
+      },
+      "provider_id": "/g/11w_d_0b4t",
+      "rating": 4.5,
+      "reviews": 13,
+      "type": "Beach pavillion",
+      "types": [
+        "Beach pavillion"
+      ],
+      "address": "3 Barangaroo Ave,Barangaroo NSW 2000,Australia",
+      "open_state": "Open 24 hours",
+      "hours": "Open 24 hours",
+      "operating_hours": {
+        "tuesday": "Open 24 hours",
+        "wednesday": "Open 24 hours",
+        "thursday": "Open 24 hours",
+        "friday": "Open 24 hours",
+        "saturday": "Open 24 hours",
+        "sunday": "Open 24 hours",
+        "monday": "Open 24 hours"
+      },
+      "unclaimed_business": true,
+      "website": "https://www.barangaroo.com/past-present-future/barangaroo-south/pier-pavilion",
+      "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npGur4nU--sg-hPwK7uQk_m1pIC8r0b9ekIykRC3OtT0gzjGlbOmf-XUSJOeko1_dP0Mg05SX6Nxy8S-dzgnAJwmDz1mAVH540ZCvH1o3VpVOSeTlwgu_JsIo8bU9DDAon2eEdW=w114-h86-k-no",
+      "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npGur4nU--sg-hPwK7uQk_m1pIC8r0b9ekIykRC3OtT0gzjGlbOmf-XUSJOeko1_dP0Mg05SX6Nxy8S-dzgnAJwmDz1mAVH540ZCvH1o3VpVOSeTlwgu_JsIo8bU9DDAon2eEdW=w8160-h6144-k-no",
+      "google_maps_url": "https://www.google.com/maps/place/Pier+Pavilion/@-33.863865,151.20083549999998,NaN/data=!3m1!1e3!4m6!3m5!1s0x6b12af002bf50319:0xb429295dc1214a81!8m2!3d-33.863865!4d151.20083549999998!16s"
+    },
+    "arrival": "17:10",
+    "departure": null,
+    "polyline": "dtxmE}ixy[tA{BPQXe@DMt@oAfAbAHBvBiDb@GBXHAQ_DMyA[gJEuFMaJAsDMsMGi@e@mCFQa@cBYm@cAuAaAoAc@_AScAiAcBqBmCeCkCy@o@YIcC]gCa@MGsAU{Co@n@wH@o@wBM}AWgDYoAG_B?sVaBeIa@cACaM{@cBKAN?JcCOM~AS`AsAtEYpBsASGvBKRARKn@ErBGp@?b@B`@@~AH|BCVPnBI\\ZGR~@@Ra@V}Aj@[DkC|JMVD^NP@?"
+  }
+}

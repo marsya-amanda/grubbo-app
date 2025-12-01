@@ -1,0 +1,37 @@
+{
+  "title": "Pier Pavilion",
+  "place_id": "ChIJGQP1KwCvEmsRgUohwV0pKbQ",
+  "data_id": "0x6b12af002bf50319:0xb429295dc1214a81",
+  "data_cid": "-5464791190188504447",
+  "reviews_link": "https://api.scrapingdog.com/google_maps/reviews?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af002bf50319:0xb429295dc1214a81",
+  "photos_link": "https://api.scrapingdog.com/google_maps/photos?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af002bf50319:0xb429295dc1214a81",
+  "posts_link": "https://api.scrapingdog.com/google_maps/posts?api_key=6868fbce200dfed6419b66de&data_id=0x6b12af002bf50319:0xb429295dc1214a81",
+  "gps_coordinates": {
+    "latitude": -33.863865,
+    "longitude": 151.20083549999998
+  },
+  "provider_id": "/g/11w_d_0b4t",
+  "rating": 4.5,
+  "reviews": 13,
+  "type": "Beach pavillion",
+  "types": [
+    "Beach pavillion"
+  ],
+  "address": "3 Barangaroo Ave,Barangaroo NSW 2000,Australia",
+  "open_state": "Open 24 hours",
+  "hours": "Open 24 hours",
+  "operating_hours": {
+    "tuesday": "Open 24 hours",
+    "wednesday": "Open 24 hours",
+    "thursday": "Open 24 hours",
+    "friday": "Open 24 hours",
+    "saturday": "Open 24 hours",
+    "sunday": "Open 24 hours",
+    "monday": "Open 24 hours"
+  },
+  "unclaimed_business": true,
+  "website": "https://www.barangaroo.com/past-present-future/barangaroo-south/pier-pavilion",
+  "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npGur4nU--sg-hPwK7uQk_m1pIC8r0b9ekIykRC3OtT0gzjGlbOmf-XUSJOeko1_dP0Mg05SX6Nxy8S-dzgnAJwmDz1mAVH540ZCvH1o3VpVOSeTlwgu_JsIo8bU9DDAon2eEdW=w114-h86-k-no",
+  "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npGur4nU--sg-hPwK7uQk_m1pIC8r0b9ekIykRC3OtT0gzjGlbOmf-XUSJOeko1_dP0Mg05SX6Nxy8S-dzgnAJwmDz1mAVH540ZCvH1o3VpVOSeTlwgu_JsIo8bU9DDAon2eEdW=w8160-h6144-k-no",
+  "google_maps_url": "https://www.google.com/maps/place/Pier+Pavilion/@-33.863865,151.20083549999998,NaN/data=!3m1!1e3!4m6!3m5!1s0x6b12af002bf50319:0xb429295dc1214a81!8m2!3d-33.863865!4d151.20083549999998!16s"
+}
