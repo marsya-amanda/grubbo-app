@@ -4,7 +4,7 @@ import React from 'react';
 export default function CreateTourScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.subtitle}>Map here, display "you're not in a tour right now!" if no tour</Text>
+      <Text style={styles.subtitle}>Map here, display &quot;you&apos;re not in a tour right now!&quot; if no tour</Text>
     </View>
   );
 }

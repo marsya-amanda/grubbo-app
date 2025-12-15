@@ -1,4 +1,4 @@
-import { View, Text, TextInput, Pressable, StyleSheet } from "react-native";
+import { View, TextInput, StyleSheet } from "react-native";
 import DateTimeButton from './DateTimeButton';
 import { Ionicons } from "@expo/vector-icons";
 

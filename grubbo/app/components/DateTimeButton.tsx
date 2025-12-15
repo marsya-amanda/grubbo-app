@@ -8,7 +8,6 @@ export default function DateTimeButton() {
     const [date, setDate] = useState(new Date());
     const [open, setOpen] = useState(false);
     const mode = 'datetime';
-    const modal = true;
 
     const onChange = (event: DateTimePickerEvent, selectedDate?: Date) => {
         const currentDate = selectedDate;
