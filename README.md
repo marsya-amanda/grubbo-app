@@ -1,6 +1,6 @@
 # 📱 GRUBBO — Smart Food Tour Planner
 
-![CI Pipeline Badge](https://github.com/your-user/your-repo/actions/workflows/ci-cd.yml/badge.svg)
+![CI Pipeline Badge](https://github.com/marsya-amanda/grubbo-app/actions/workflows/ci-cd.yml/badge.svg)
 
 > A production-style mobile application for generating optimized food tours using real-time geolocation, map routing, and backend service orchestration.
 
