@@ -1,7 +1,7 @@
 import { Ionicons } from "@expo/vector-icons";
 import React, { useState } from 'react';
-import DateTimePicker from '@react-native-community/datetimepicker';
-import { Pressable } from "react-native";
+import DateTimePicker, {DateTimePickerEvent} from '@react-native-community/datetimepicker';
+import { Pressable, StyleSheet, View } from "react-native";
 
 
 export default function DateTimeButton() {
@@ -10,15 +10,24 @@ export default function DateTimeButton() {
     const mode = 'datetime';
     const modal = true;
 
-    const onChange = (event: Event, selectedDate: Date) => {
+    const onChange = (event: DateTimePickerEvent, selectedDate?: Date) => {
         const currentDate = selectedDate;
+        if (event.type === 'dismissed') {
+          setOpen(false);
+          return;
+        }
+      
+        if (currentDate) {
+          setDate(currentDate);
+        }
         setOpen(false);
-        setDate(currentDate);
       };
     
     return (
-        <Pressable onPress={() => setOpen(true)}>
+        <View style={styles.button}>
+            <Pressable onPress={() => setOpen(true)}>
             <Ionicons name="calendar-outline" size={20} color="#837770"/>
+            <View style={styles.picker}>
             {open && 
             <DateTimePicker 
                 testID="dateTimePicker"
@@ -26,8 +35,20 @@ export default function DateTimeButton() {
                 mode={mode}
                 is24Hour={true}
                 onChange={onChange}
+                display="spinner"
             />
             }
+            </View>
         </Pressable>
+        </View>
     )
-}
+};
+
+const styles = StyleSheet.create({
+    button: {
+        marginLeft: 10
+    },
+    picker: {
+        
+    }
+});

@@ -18,6 +18,7 @@ export default function SearchField({
     <View style={styles.wrapper}>
         <View style={styles.search}>
             <Ionicons name='search-outline' size={20} color="#837770" />
+
             <TextInput
             placeholder={placeholder}
             value={value}
@@ -41,12 +42,11 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
-    paddingRight: 3,
   },
   search: {
     flexDirection: "row",
     justifyContent: 'flex-start',
     alignItems: 'center',
-    padding: 3
+    margin: 3
   }
 });
