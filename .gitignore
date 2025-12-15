@@ -54,3 +54,5 @@ BACKEND_SETUP.md
 
 grubbo/app/services
 grubbo/app/types
+grubbo/android/
+grubbo/ios/

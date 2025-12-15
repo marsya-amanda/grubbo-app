@@ -2,7 +2,6 @@ import { Text, View, StyleSheet } from "react-native";
 import TopReceipt from "../components/topReceipt.jsx";
 import BottomReceipt from "../components/bottomReceipt.jsx";
 import SearchField from "../components/SearchField";
-import { useFonts } from "expo-font";
 import React, { useState } from 'react';
 
 export default function Index() {
@@ -17,7 +16,7 @@ export default function Index() {
 
       <View style={styles.main}>
         <View style={styles.titleContainer}>
-          <Text style={styles.grubboText}>GRUBBO'S</Text>
+          <Text style={styles.grubboText}>GRUBBO&apos;S</Text>
           <Text style={styles.secondaryText}>PLAN TOUR</Text>
         </View>
         <View style={styles.fieldContainer}>
